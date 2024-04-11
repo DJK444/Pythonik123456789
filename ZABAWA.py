@@ -1,14 +1,4 @@
-#%%
-print("marchewka",end=", ")
-print("marchewka",end=", ")
-print("marchewka",end=", ")
-print("marchewka",end=", ")
-print("marchewka",end=", ")
-print("marchewka",end=", ") #na koncu zdania mam przecinek zamiast entera
-#%%
-print("marchewka")
-
-
-
-
-# %%
+wysokosc=int(input("Jaka jest wysokość"))
+podstawa=int(input("Jaka jest podstawa"))
+wynik = wysokość*podstawa
+print(f"Twoje pole wynosi{wynik}")
